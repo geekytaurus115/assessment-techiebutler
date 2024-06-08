@@ -8,7 +8,7 @@
 - Postman for API testing
 
 #### Project Structure:
-
+```
 assessment_techiebutler
 │
 ├── cmd/
@@ -26,7 +26,7 @@ assessment_techiebutler
 │
 └── go.mod
 └── AssessmentEmployee.postman_collection.json
-
+```
 #### Start Application:
 
 ```
